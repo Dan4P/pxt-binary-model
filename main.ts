@@ -1,3 +1,6 @@
-basic.forever(function () {
-	
-})
+
+namespace binary {
+    export function binaryGo(){
+        basic.showString("binary")
+    }
+}
