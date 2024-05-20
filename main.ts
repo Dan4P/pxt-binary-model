@@ -1,7 +1,7 @@
 
 namespace binary {
     //%block
-    export function binary(){
+    export function binaryNow(){
         basic.showString("binary")
     }
 }
