@@ -1,7 +1,7 @@
 
 namespace binary {
     //%block
-    export function binaryGo(){
+    export function binary(){
         basic.showString("binary")
     }
 }
