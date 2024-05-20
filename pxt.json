@@ -23,7 +23,7 @@
     ],
     "preferredEditor": "tsprj",
     "extension": {
-        "namespace": "generate model",
+        "namespace": "binary",
         "label": "model creation",
         "group": "Input model",
         "url": "https://dan4p.github.io/binary-model/"
