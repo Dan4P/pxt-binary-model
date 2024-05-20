@@ -21,5 +21,11 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "tsprj",
+    "extension": {
+        "namespace": "generate model",
+        "label": "model creation",
+        "group": "Input model",
+        "url": "https://dan4p.github.io/binary-model/"
+    }
 }
